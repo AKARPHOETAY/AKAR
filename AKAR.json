@@ -6,12 +6,19 @@
 {
          "name": "Thailand-001",
          "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/Koakar-001.ovpn"
+      },
+
+
+{
+         "name": "Thailand-002",
+         "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/Koakar-002.ovpn"
       }
 
 
 
+
    ],
-"message":"16 Fenruary 2023\n\n•Version:1\n\n\n📢Owner By : Than Si Thu📢",
+"message":"18 Fenruary 2023\n\n•Version:2\n\n\n📢Owner By : Koakar📢",
    "title":"🎄Add Game VPS🎄" ,
-   "version": 1
+   "version": 2
 }
