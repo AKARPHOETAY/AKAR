@@ -5,25 +5,11 @@
 
 {
          "name": "Thailand-001",
-         "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/TH-001.ovpn"
+         "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/Akar-002.ovpn"
       },
 
 
-{
-         "name": "Thailand-002",
-         "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/TH-002.ovpn"
-      },
 
-{
-         "name": "Thailand-003",
-         "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/TH-003.ovpn"
-      },
-
-
-{
-         "name": "Thailand-004",
-         "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/Akar-001.ovpn"
-      },
 
 {
          "name": "Thailand-005",
@@ -31,10 +17,6 @@
       },
 
 
-{
-         "name": "Thailand-006",
-         "url": "https://raw.githubusercontent.com/AKARPHOETAY/AKAR/main/TH-008.ovpn"
-      },
 
 
 {
@@ -49,7 +31,7 @@
 
 
    ],
-"message":"9 August 2023\n\n•Version:12\n\n\n📢Owner By : Koakar📢",
+"message":"22 september  2023\n\n•Version:13\n\n\n📢Owner By : Koakar📢",
    "title":"🎄Add Game VPS🎄" ,
-   "version": 12
+   "version": 13
 }
